@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1694354154 source:c:\users\victor\desktop\doc's\nova pasta (2)\cc\terceirosemestre\estrutura_de_dados\trabalhom1\teste6\main.cpp
+	<iostream>
+	"MI.h"
+
+1694355955 c:\users\victor\desktop\doc's\nova pasta (2)\cc\terceirosemestre\estrutura_de_dados\trabalhom1\teste6\mi.h
+	<sstream>
+	<fstream>
+
+1694354154 source:c:\users\victor\desktop\doc's\nova pasta (2)\cc\terceirosemestre\estrutura_de_dados\trabalhom1\victorhugo-trabalhom1-estruturadados\main.cpp
+	<iostream>
+	"MI.h"
+
+1694355955 c:\users\victor\desktop\doc's\nova pasta (2)\cc\terceirosemestre\estrutura_de_dados\trabalhom1\victorhugo-trabalhom1-estruturadados\mi.h
+	<sstream>
+	<fstream>
+
+1694354154 source:c:\users\victor\projetos_git\gerenciamento_de_voos\main.cpp
+	<iostream>
+	"MI.h"
+
+1694355955 c:\users\victor\projetos_git\gerenciamento_de_voos\mi.h
+	<sstream>
+	<fstream>
+
